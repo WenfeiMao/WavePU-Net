@@ -1,4 +1,4 @@
-# WaveUNet: An Efficient Deep Network Based on Discrete Wavelet Transform and Attention Mechanism for InSAR Phase Unwrapping
+<img width="45" height="40" alt="image" src="https://github.com/user-attachments/assets/419f61f9-de1b-4d50-9024-a3b671d78fbb" /># WaveUNet: An Efficient Deep Network Based on Discrete Wavelet Transform and Attention Mechanism for InSAR Phase Unwrapping
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.11+-orange.svg)](https://pytorch.org/)
@@ -54,3 +54,7 @@ $$
 Python >= 3.8
 PyTorch >= 1.11.0
 CUDA >= 11.0 (optional, for GPU acceleration)
+
+## Reference
+
+Wenfei Mao, Hongquan Xiang, Xue Cheng, Guoxiang Liu, Xiaowen Wang, Rui Zhang, Oriol Monserrat, Michele Crosetto. WaveUNet: An efficient deep network based on discrete wavelet transform and attention mechanism for InSAR phase unwrapping, ISPRS Journal of Photogrammetry and Remote Sensing, Volume 239, 2026, Pages 653-669, ISSN 0924-2716, https://doi.org/10.1016/j.isprsjprs.2026.06.025. (https://www.sciencedirect.com/science/article/abs/pii/S092427162600331X)
