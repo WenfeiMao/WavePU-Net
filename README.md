@@ -1,4 +1,4 @@
-<img width="45" height="40" alt="image" src="https://github.com/user-attachments/assets/419f61f9-de1b-4d50-9024-a3b671d78fbb" /># WaveUNet: An Efficient Deep Network Based on Discrete Wavelet Transform and Attention Mechanism for InSAR Phase Unwrapping
+WaveUNet: An Efficient Deep Network Based on Discrete Wavelet Transform and Attention Mechanism for InSAR Phase Unwrapping
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.11+-orange.svg)](https://pytorch.org/)
