@@ -50,11 +50,11 @@ $$
 
 ## 📋 Requirements
 
-```bash
+bash
 Python >= 3.8
 PyTorch >= 1.11.0
 CUDA >= 11.0 (optional, for GPU acceleration)
 
-## Reference
+## <img width="320" height="320" alt="7472a745b686fb46fb21cb1ee15ea716" src="https://github.com/user-attachments/assets/69608e40-cd73-4a2c-9f22-7a894f5b86fc" /> Reference
 
 Wenfei Mao, Hongquan Xiang, Xue Cheng, Guoxiang Liu, Xiaowen Wang, Rui Zhang, Oriol Monserrat, Michele Crosetto. WaveUNet: An efficient deep network based on discrete wavelet transform and attention mechanism for InSAR phase unwrapping, ISPRS Journal of Photogrammetry and Remote Sensing, Volume 239, 2026, Pages 653-669, ISSN 0924-2716, https://doi.org/10.1016/j.isprsjprs.2026.06.025. (https://www.sciencedirect.com/science/article/abs/pii/S092427162600331X)
